@@ -1,2 +1,2 @@
 # LIGHTBOX-IMAGE-GALLERY-SLIDESHOW
-Attractive Lightbox Image Gallery Slideshow Using JAVSCRIPT. Click on the image to see the Lightbox Effect.
+Attractive Lightbox Image Gallery Slideshow Using JAVASCRIPT. Click on the Image to see the Lightbox Effect.
